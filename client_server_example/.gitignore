@@ -1,0 +1,14 @@
+# General
+debug/
+release/
+
+# OS X
+.DS_Store?
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# vim
+.*.sw[a-z]
+*.un~
